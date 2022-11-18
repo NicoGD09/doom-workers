@@ -1,6 +1,6 @@
 name = "doom"
-# account_id = "118553130"
-# zone_id = "..."
+# account_id = "24ab7f5270c5be04cf5776ee634871d4"
+# zone_id = "70b257574576d94d3d07ca13b356405b"
 # https://developers.cloudflare.com/workers/cli-wrangler/webpack
 type = "webpack"
 webpack_config = "site/webpack.js"
