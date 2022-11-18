@@ -1,5 +1,5 @@
 name = "doom"
-# account_id = "..."
+# account_id = "118553130"
 # zone_id = "..."
 # https://developers.cloudflare.com/workers/cli-wrangler/webpack
 type = "webpack"
